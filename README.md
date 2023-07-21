@@ -1,2 +1,1 @@
-# bolignag.github.io
-hola ekisde
+hola mundo
